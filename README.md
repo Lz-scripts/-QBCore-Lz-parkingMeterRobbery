@@ -5,7 +5,7 @@
 
 ## Preview
 
-- [Version 1.0.0](https://www.youtube.com/watch?v=rVJrKZRFrPE&ab_channel=Lz-Scripts)
+- [Watch Preview](https://www.youtube.com/watch?v=rVJrKZRFrPE&ab_channel=Lz-Scripts)
 
 ## Dependencies
 
