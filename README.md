@@ -3,7 +3,9 @@
 - You can rob all the park meter prop inside all the map of course there is a cooldown you can make how much u want and you get money (default) if u want to add an item as a reward You can make it true inside the config
 - you can change everything like mini games and dispatch calls
 
+## Preview
 
+- [Version 1.0.0](https://www.youtube.com/watch?v=rVJrKZRFrPE&ab_channel=Lz-Scripts)
 
 ## Dependencies
 
